@@ -3,5 +3,18 @@ header{
     color:brown;
 }
 body{
-    background-color: gold;
+    background-color:  #51025a
+    color:white
+    display:flex
+    justifay-content:space-around
+    align-items:center
+    padding: 24px;
+}
+cabeçalho-imagem{
+whidt: 20px;
+}
+cabeçalho-lista-item{
+    display:inline-block
+    margin: 16px;
+    font: size 24px;
 }
